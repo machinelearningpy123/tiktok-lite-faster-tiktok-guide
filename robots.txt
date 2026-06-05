@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinelearningpy123.github.io/tiktok-lite-faster-tiktok-guide/sitemap.xml

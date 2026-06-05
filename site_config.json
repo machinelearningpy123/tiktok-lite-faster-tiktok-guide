@@ -1,0 +1,10 @@
+{
+  "repo_name": "tiktok-lite-faster-tiktok-guide",
+  "description": "TikTok Lite Faster TikTok Download Guide: Independent guide and resource site about Tiktok Lite Faster Tiktok APK.",
+  "visibility": "public",
+  "branch": "main",
+  "commit_message": "Initial TikTok Lite Faster TikTok Download Guide deployment",
+  "pages_source_path": "/",
+  "on_repo_exists": "suffix",
+  "open_live_url": true
+}
